@@ -1,4 +1,4 @@
-﻿# Cryptography (AP3KR) projects
+﻿# Cryptography (AP3KR)
 
 CZ:
 
@@ -17,4 +17,5 @@ EN:
 :gear: Technologies: Python, Qt
 
 This repository contains all projects I've made for the "Cryptography" (AP3KR) course.
+
 
